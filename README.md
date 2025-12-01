@@ -1,4 +1,4 @@
-MANUFACTURING ANALYSIS :
+MANUFACTURING -ANALYSIS :
 
 This project focuses on analyzing key manufacturing KPIs such as Manufactured Quantity, Rejected Quantity, Processed Quantity, 
 and Wastage Quantity to understand overall production performance. It also includes deeper analysis like employee-wise and machine-wise 
