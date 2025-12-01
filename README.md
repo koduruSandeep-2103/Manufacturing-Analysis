@@ -1,4 +1,4 @@
-MANUFACTURING -ANALYSIS :
+## MANUFACTURING-ANALYSIS:
 
 This project focuses on analyzing key manufacturing KPIs such as Manufactured Quantity, Rejected Quantity, Processed Quantity, 
 and Wastage Quantity to understand overall production performance. It also includes deeper analysis like employee-wise and machine-wise 
@@ -8,9 +8,9 @@ manufacturing vs rejection analysis highlights which departments perform efficie
 these metrics give stakeholders a complete picture of production quality, efficiency, problem areas, and opportunities for cost 
 reduction and process improvement.
 
-TOOLS USED : Excel, Tableau , Mysql, Power bi.
+## TOOLS USED: Excel, Tableau , Mysql, Power bi
 
-STEP BY STEP WORKFLOW : 
+## STEP BY STEP WORKFLOW: 
 
 •	Excel Dashboard: Create an initial dashboard using provided Excel data.
 
@@ -26,7 +26,7 @@ STEP BY STEP WORKFLOW :
   about the Project 3-KPI List 4-Excel Dashboard 5-Tableau Dashboard 6-Power BI Dashboard 7-SQL Query Image  8-Key Takeaway
 
 
-MANUFACTURING - ANALYSIS KPI DESCRIPTION  :
+## MANUFACTURING - ANALYSIS KPI DESCRIPTION:
 
 Manufacture Qty - Total number of units produced by the factory.
 Rejected Qty - Units that failed quality checks.
@@ -39,7 +39,7 @@ Manufacture Vs Rejected - Comparison between total produced units and rejected u
 Department Wise Manufacture Vs Rejected -Production vs rejection performance for each department.
 Emp Wise Rejected Qty - Same as employee-wise rejected units (repeated KPI).
 
-PROJECT PROCESS :
+## PROJECT PROCESS:
 
 Data Collection & Import : Collected raw manufacturing datasets including production logs, machine performance data, quality inspection reports, 
 and employee shift information. Imported the data into Excel, Power BI, and Tableau for processing and visualization.
@@ -62,12 +62,12 @@ Conclusion & Reporting :
 Summarized findings showing consistent production levels, opportunities to reduce rejections, and chances to optimize specific machines and processes.
 Presented insights through a comprehensive dashboard to support data-driven decision-making in the manufacturing environment.
 
-MANUFACTURING -ANALYSIS EXCEL DASHBOARD :
+## MANUFACTURING -ANALYSIS EXCEL DASHBOARD:
 
  <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/b277de58-e248-45c4-8c77-9d856ed60443" />
 
 
-MANUFACTURING -ANALYSIS POWERBI DASHBOARD :
+## MANUFACTURING -ANALYSIS POWERBI DASHBOARD:
 
 
  
@@ -77,7 +77,7 @@ MANUFACTURING -ANALYSIS POWERBI DASHBOARD :
 
 
 
-MANUFACTURING -ANALYSIS TABLEAU DASHBOARD :
+## MANUFACTURING -ANALYSIS TABLEAU DASHBOARD:
   
 
  <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/bc5584e7-7d7d-4b2c-a0e6-e6da5d8e2095" />
@@ -85,7 +85,7 @@ MANUFACTURING -ANALYSIS TABLEAU DASHBOARD :
 
 
 
-CONCLUSION :
+## CONCLUSION:
 
 This project provides a clear and data-driven view of the overall manufacturing performance by tracking key KPIs such as Manufactured Quantity,
 Rejected Quantity, Processed Quantity, and Wastage. By analysing employee-wise and machine-wise rejections, the project helps identify the exact
